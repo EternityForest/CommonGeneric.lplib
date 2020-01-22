@@ -1,0 +1,11 @@
+(librepcb_library 4dc24eb7-8c23-4de9-be2b-d99bb34a93cc
+ (name "CommonGeneric")
+ (description "Commonly cloned generic parts you might find online")
+ (keywords "")
+ (author "Daniel Dunn")
+ (version "0.1")
+ (created 2020-01-13T11:11:30Z)
+ (deprecated false)
+ (url "")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)

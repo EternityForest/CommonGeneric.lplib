@@ -1,0 +1,10 @@
+(librepcb_package_category c30e7cd0-c699-47bd-8365-9038d46b9cef
+ (name "Etched")
+ (description "")
+ (keywords "")
+ (author "Daniel Dunn")
+ (version "0.1")
+ (created 2020-01-13T11:31:01Z)
+ (deprecated false)
+ (parent none)
+)
