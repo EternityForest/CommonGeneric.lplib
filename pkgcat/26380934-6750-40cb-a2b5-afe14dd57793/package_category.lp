@@ -1,0 +1,10 @@
+(librepcb_package_category 26380934-6750-40cb-a2b5-afe14dd57793
+ (name "Modules")
+ (description "")
+ (keywords "")
+ (author "Daniel Dunn")
+ (version "0.1")
+ (created 2020-02-27T23:29:20Z)
+ (deprecated false)
+ (parent none)
+)
